@@ -1,3 +1,7 @@
+function sum(a, b){
+    return a + b
+}
 
-console.log("ola git!")
-console.log("segunda linha")
+function sub(a, b){
+    return a + b
+}
