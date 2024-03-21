@@ -6,4 +6,8 @@ function fib(valor) {
     }
 }
 
+function div(a, b) {
+    return a / b;
+}
+
 console.log(fib(10));
